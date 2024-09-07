@@ -121,6 +121,7 @@ body {
         margin-left: 0;
     }
 }
+/*Sistema de carga*/
 .three-body {
     --uib-size: 35px;
     --uib-speed: 0.8s;
@@ -223,7 +224,7 @@ body {
     opacity: 0.8;
     }
 }
-
+/*Cierra sistema de carga*/
 
 header {
     background-color: none;
